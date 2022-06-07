@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              𝐦𝐔𝐛𝐀𝐬𝐇𝐢𝐑❣️ 𝓫𝔂 
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵  𝚅2 𝙱𝚈 𝐦𝐔𝐛𝐀𝐬𝐇𝐢𝐑❣️ 
 //
 //════════════════════════════//
 
@@ -22,15 +22,15 @@ global.APIKeys = {
 global.owner = ['+966572004810']
 global.premium = ['+966572004810']
 global.ownernomer = '+966572004810'
-global.ownername = '🐦Star Boy '
+global.ownername = '𝐦𝐔𝐛𝐀𝐬𝐇𝐢𝐑❣️ '
 global.botname = 'aj'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.footer = '©ɪsʜᴜ ❣ᴀʏʀɪ.'
+global.ig = 'https://github.com/mubashirpom/termuxbot'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/mubashirpom/termuxbot'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy '
+global.packname = '𝐦𝐔𝐛𝐀𝐬𝐇𝐢𝐑❣️'
+global.author = 'ɪsʜᴜ ❣ᴀʏʀɪ '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
